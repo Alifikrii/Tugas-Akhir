@@ -1,0 +1,16 @@
+[11.10, 13/5/2022] Ibu Karlisa Priandana Dosen Ilkom: Oh baik kalau begitu data processing juga ya seperti Gilang saja..
+[11.10, 13/5/2022] Ibu Karlisa Priandana Dosen Ilkom: Jadi sebetulnya kita sudah ada data, tapi datanya imbalance.. Jadi untuk satu kelas, datanya banyak, untuk kelas lain datanya sedikit sekali
+[11.11, 13/5/2022] Ibu Karlisa Priandana Dosen Ilkom: Untuk Gilang, saya mengajukan judul ini: 
+
+Penanganan Data Imbalance pada Citra Multispektral Lahan Sawah untuk Klasifikasi Kesuburan Lahan Sawah
+[11.13, 13/5/2022] Ibu Karlisa Priandana Dosen Ilkom: Untuk Andi, saya ajukan judul ini:
+
+Pengembangan Algoritme Generative Adversarial Network (GAN) untuk Menambah Data Citra Multispektral Lahan Sawah dalam Pemetaan Kesuburan Lahan
+[11.14, 13/5/2022] Ibu Karlisa Priandana Dosen Ilkom: Untuk Mas Andi, saya ajukan langsung fokus ke algoritme GAN saja untuk membuat "fake" data (data tambahan). Nanti evaluasinya lebih ke apakah data "fake" ini bisa dipakai untuk training juga
+[11.15, 13/5/2022] Ibu Karlisa Priandana Dosen Ilkom: Kalau yg Gilang nanti lebih ke penanganan data imbalance secara umum sebelum akhirnya diklasifikasikan.. Bisa dengan resampling, atau lainnya
+
+[11.19, 13/5/2022] Alifikri _ G64190005: Baik siap ibu
+[11.20, 13/5/2022] Ibu Karlisa Priandana Dosen Ilkom: Kalau sudah OK nanti akan saya share kode program python yg sudah saya buat untuk generate ini supaya bisa cepet progressnya ya
+
+[11.16, 13/5/2022] Ibu Karlisa Priandana Dosen Ilkom: Ini datanya dan sedikit penjelasan program yg sudah saya buat untuk datanya (namun imbalance data belum ditangani)
+[11.17, 13/5/2022] Ibu Karlisa Priandana Dosen Ilkom: Kalau ini OK, silakan bisa diisi pengajuan dospemnya yaa

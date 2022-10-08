@@ -1,0 +1,6 @@
+Fokus Divisi CIO (Journal Club)
+
+Topik: "Balancing Data untuk Kasus Deteksi Fraud Transaksi Kartu Kredit"
+Pembicara: Lailan Sahrina Hasibuan, S.Kom, M.Kom. (Dosen Dept. Ilmu Komputer IPB)
+
+Lebih bauik data mayor yang masuk ke data minor daripada data minor tidak terdeteksi 

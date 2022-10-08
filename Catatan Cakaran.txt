@@ -1,0 +1,13 @@
+Menurut  Spelmen (2020) ada dua tipe mengatasi data imbalance yaitu Data level methods dan algoritmic level methods, pada data level ini menggunakan beberapa teknik yaitu oversampling, undersampling. teknik ini dikatakan data level karena mereka langsung memanipulasi data yang ada demi menyeimbangkan data dengan cara mengurangi sampel data mayoritas ataupun menghapus kelas minoritas. dampak dari teknik oversampling ini adalah bisa saja terjadi over fitting ketika dilakukan pelatihan model sedangkan untuk teknik undersampling dapat menyebabkan kehilangan beberapa sample data. Lalu tipe yang kedua adalah dengan algoritmic level methods atau biasa disebut sebagai pendekatan internal karena memanfaatkan desain algoritma klasifikasi baru atau meningkatkan algoritma yang ada untuk mengatasi bias akibat ketidakseimbangan data.
+
+
+
+Isi Latar belakang
+- Apa itu multispektral
+- Multispektral digunakan untuk apa didunia pertanian
+- Multispektral diperoleh dengan alat apa
+- Penelitian sebelumnya tentang multispektral
+- Pengembangan masalah dari penelitian sebelumnya dan contohnya
+- Dampak yang terjadi jika ada data yang tidak seimbang dalam proses pelatihan model
+- Beberapa pendekatan dalam mengatasi data imbalance
+- Pendekatan yang dipilih dan alasannya serta perbedaan SMOTE dan GAN
