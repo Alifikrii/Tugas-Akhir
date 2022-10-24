@@ -1,1 +1,2 @@
 https://www.youtube.com/watch?v=W5NPlZzebO0
+https://www.youtube.com/watch?v=MAMSh5kVoec implementasi keras untuk cgan
