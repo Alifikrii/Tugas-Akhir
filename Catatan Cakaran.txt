@@ -11,3 +11,29 @@ Isi Latar belakang
 - Dampak yang terjadi jika ada data yang tidak seimbang dalam proses pelatihan model
 - Beberapa pendekatan dalam mengatasi data imbalance
 - Pendekatan yang dipilih dan alasannya serta perbedaan SMOTE dan GAN
+
+
+Eval bimbingan 2
+Larat belakang ditambah beberapa paragraf
+Daftar pustaka sebelumnya cuman 3 sekarang sudah bertambah
+Tinjnauan pustaka dibagi dalam 3 garis besar
+Gan pertama kali di cetuskan oleh goodfellow pada tahun 2014
+jadi ada gan dan ada cgan dan ada ctGan
+Untuk metode belum saya tulsikan karena saya sekarang berfokus pada mencari referensi referensi mengenai cara implementasi gan khususnya pada yputube karena kita tahu gan ummumnya digunakan untuk citra sedangkan data saya miliki adalah data tabulasi
+
+Pertanyaan Bimbingan 2
+Seputar variabel yang mau digunakan
+apa di tinjauan pustaka juga saya perlu penjelasan tentang Evaluation matrix
+Decision tree
+Kodingan yang sudah ada
+CGAN dan CTGAN
+didalam metode kira kira apa saja yang saya masukan kalau pakai kodingan yang sudah ada
+Apakah judul juga berubah
+
+
+Revisi bimbingan 2
+Kurangin latar belakang paragraf 4 penjelasannya kepanjangan
+Tinjauan pustaka tambahin lagi MULTISPEKTRAL bisa dipakai untuk apa saja dalam pertanian
+penelitian sebelumnya fokus ke gan
+tambah gambar di tinjaunan pustaka
+sama tambah gambar di UAV band bandnya apa aja
