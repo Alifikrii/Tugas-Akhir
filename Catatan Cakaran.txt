@@ -37,3 +37,10 @@ Tinjauan pustaka tambahin lagi MULTISPEKTRAL bisa dipakai untuk apa saja dalam p
 penelitian sebelumnya fokus ke gan
 tambah gambar di tinjaunan pustaka
 sama tambah gambar di UAV band bandnya apa aja
+
+Revisi MPTP pertemuan 11
+di Bab metode tambahkan :
+Metode pengembangan
+Deskripsi data yang digunakan
+Parameter apa saja yang dipakai
+
