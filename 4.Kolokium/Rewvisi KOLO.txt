@@ -1,0 +1,4 @@
+Kenapa pake random forest
+bandingkan dengan smote
+bagaimana untuk data yang labelnya 4, apakah dihilangkan atau tidak
+bisa masing masing pake svm saja
